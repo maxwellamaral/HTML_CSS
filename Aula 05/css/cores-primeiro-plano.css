@@ -1,0 +1,12 @@
+/* valor RGB */
+p {
+    color: rgb(100,100,90);
+}
+/* valor hexadecimal */
+h2 {
+    color: #ee3e80;
+}
+/* nome da cor em inglês */
+h1 {
+    color: darkcyan;
+}

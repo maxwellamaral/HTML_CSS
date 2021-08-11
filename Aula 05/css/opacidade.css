@@ -1,0 +1,8 @@
+p.um {
+    background-color: rgb(0,0,0);
+    opacity: 0.5;
+}
+p.dois {
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.5);
+}

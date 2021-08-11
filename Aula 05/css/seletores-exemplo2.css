@@ -1,0 +1,35 @@
+* {
+    font-family: "Bodoni Bd BT", serif;
+}
+
+h1 {
+    color: red;
+}
+
+a {
+    color: gray;
+}
+
+.anotacao {
+    color: darkblue;
+}
+
+#topo {
+    font-family: Bahnschrift;
+}
+
+li>a {
+    color: #ee3e80;
+}
+
+p a {
+    color: #00FF00;
+}
+
+h1+p {
+    font-size: 8pt;
+}
+
+h1~p {
+    font-size: 20pt;
+}
